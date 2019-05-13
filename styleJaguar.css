@@ -19,12 +19,16 @@ div.text {
   font-weight: 700;
 }
 
-input[type=submit]{
+div.personalized{
+  margin: 0px 40px 25px;
+  font-family: 'Roboto', sans-serif;
+}
+a.button{
+  text-decoration:none;
   background: #DB3030;
   color: white;
   padding: 10px 30px;
-  margin: 0px 40px 20px;
-  font-weight: bold;
+  font-weight: 400;
   border: none;
 }
 
